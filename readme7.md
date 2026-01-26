@@ -23,8 +23,8 @@ To predict passenger survival on the Titanic using Logistic Regression and evalu
 
   - ROC Curve & AUC Score
 
-    
-<img width="975" height="677" alt="aucscore" src="https://github.com/user-attachments/assets/124a7a13-0f9f-4911-8503-da34978cd902" />
+    <img width="936" height="645" alt="image" src="https://github.com/user-attachments/assets/9b326052-d2ab-48f0-b0a5-e77f1e620db5" />
+
 
 ## Results
 The model achieved good classification performance and demonstrated the effectiveness of Logistic Regression for binary classification problems.
