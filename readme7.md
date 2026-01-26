@@ -4,7 +4,7 @@
 To predict passenger survival on the Titanic using Logistic Regression and evaluate model performance.
 
 ## Dataset
-- Seaborn Titanic Dataset
+- Titanic Dataset
 
 ## Steps Performed
 - Data cleaning and preprocessing
