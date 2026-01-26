@@ -1,5 +1,6 @@
 # Titanic Survival Prediction using Logistic Regression
-Notebook in pdf form: https://github.com/Anu-253/AIML-internship/edit/main/task7.pdf
+Notebook in pdf form: https://github.com/Anu-253/AIML-internship/blob/main/task7.pdf
+
 This readme file contains all the respective deliverables
 1. notebook
 2. confusion matrix image
