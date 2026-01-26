@@ -1,4 +1,9 @@
 # Titanic Survival Prediction using Logistic Regression
+Notebook in pdf form: https://github.com/Anu-253/AIML-internship/edit/main/task7.pdf
+This readme file contains all the respective deliverables
+1. notebook
+2. confusion matrix image
+3. ROC curve + AUC score
 
 ## Objective
 To predict passenger survival on the Titanic using Logistic Regression and evaluate model performance.
